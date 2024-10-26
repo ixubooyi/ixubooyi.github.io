@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ixubooyi.github.io/sitemap_index.ixubooyi
